@@ -64,6 +64,6 @@
     "extract-text-webpack-plugin": ">=2.0.0-beta",
     "tap-spec": "^4.1.1",
     "tape": "^4.6.3",
-    "webpack": "^2.1.0-beta"
+    "webpack": "^2.2.0-rc"
   }
 }
